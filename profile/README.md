@@ -38,6 +38,10 @@ OR use oure Website: https://goosebumpsrust.com
 
 https://github.com/GooseBumpsRust/GooseBumpsAllInOne
 
+# Backend API Swagger
+
+https://api.goosebumpsrust.com/swagger-ui/index.html
+
 #  Demonstration Website
 
 http://goosebumpsrust.com
