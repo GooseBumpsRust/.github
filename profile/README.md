@@ -10,7 +10,7 @@ After that we will provide a "challenge", that would contain an easy task that c
 
 ## Architecture
 
-<img width="586" alt="image" src="https://user-images.githubusercontent.com/30118461/193402439-704eede7-05b3-4c6d-a763-5cb7050df9ff.png">
+<img width="695" alt="image" src="https://user-images.githubusercontent.com/30118461/193442887-60ea39fc-e25b-4ebe-a46d-65d615c15b8c.png">
 
 
 ```bash
