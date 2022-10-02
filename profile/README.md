@@ -30,9 +30,17 @@ cargo build
 cd GooseBumpsFrontend
 npm install
 npm run start
+
+Frontend runs on http://localhost:4200
+
+OR use oure Website: https://goosebumpsrust.com/
 ```
 
 https://github.com/GooseBumpsRust/GooseBumpsAllInOne
+
+# DEMO Website
+
+http://goosebumpsrust.com/
 
 <img width="916" alt="image" src="https://user-images.githubusercontent.com/30118461/193445927-a7138e48-527c-42b8-aa0f-659e1302e6f2.png">
 
