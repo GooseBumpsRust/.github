@@ -18,9 +18,18 @@ After that we will provide a "challenge", that would contain an easy task that c
 
 ```bash
 
-# 🚀 Start Frontent and Backend in REPO
-GooseBumpsAllInOne
+# 🚀 Start Frontent and Backend in REPO first checkout GooseBumpsAllInOne
 
+git clone --recusive https://github.com/GooseBumpsRust/GooseBumpsAllInOne
+
+# 👻 BACKEND
+cd GooseBumpsBackend
+cargo build
+
+# 😺 FRONTEND
+cd GooseBumpsFrontend
+npm install
+npm run start
 ```
 
 https://github.com/GooseBumpsRust/GooseBumpsAllInOne
